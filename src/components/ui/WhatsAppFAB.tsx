@@ -1,7 +1,7 @@
 'use client';
 
 export default function WhatsAppFAB() {
-  const phoneNumber = '916379946125';
+  const phoneNumber = '919672756185';
   const message = encodeURIComponent(
     'Hi! I visited the Trident Home website and would like to know more about your products.'
   );
